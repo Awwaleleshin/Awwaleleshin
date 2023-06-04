@@ -4,14 +4,15 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### :man_technologist: About Me : I'm Awwal, and I'm currently making a transition from being a Data Analyst to pursuing a career as a Software Engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: I'm currently learning Software Engineering.
+- :eyes: I’m interested in Software Engineering
 
-- :zap: In my free time, I solve problems on HackerRank and read tech articles.
+- :revolving_hearts: I’m looking to collaborate on projects that are related to Software Development
 
-- :mailbox:How to reach me at - awwaleleshin@gmail.com
+- :seedling:  I’m currently learning Software Development
+
+- :mailbox: You can reach me at - awwaleleshin@gmail.com
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -24,8 +25,4 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Awwaleleshin&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
